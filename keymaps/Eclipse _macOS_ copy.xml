@@ -1,0 +1,13 @@
+<keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="GotoLine" />
+  <action id="GotoRow" />
+  <action id="IncrementalSearch" />
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>
