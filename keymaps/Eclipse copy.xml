@@ -98,6 +98,9 @@
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="MoveElementLeft">
     <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
@@ -111,6 +114,12 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="NavBar-navigate" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
