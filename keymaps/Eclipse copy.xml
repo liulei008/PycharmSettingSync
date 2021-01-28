@@ -150,6 +150,9 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
