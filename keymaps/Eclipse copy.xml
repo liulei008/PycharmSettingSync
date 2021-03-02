@@ -12,6 +12,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
@@ -59,6 +62,9 @@
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
@@ -169,7 +175,7 @@
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="meta a" />
+    <keyboard-shortcut first-keystroke="meta q" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta w" />
