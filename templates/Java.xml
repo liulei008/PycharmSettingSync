@@ -1,5 +1,16 @@
 <templateSet group="Java">
-  <template name="ba" value="//" description="java类注释" toReformat="false" toShortenFQNames="true">
+  <template name="ba" value="/**&#10; * @author liulei&#10; * @description:&#10; * @create: $DATE$&#10; **/" description="java类注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="na" value="/**&#10; * @description &#10; * @param &#10; * @return &#10; */" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ma" value="/**  **/" description="多行代码注释" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
