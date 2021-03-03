@@ -45,6 +45,9 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Debugger.StepOutOfBlock">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
   <action id="DelegateMethods">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
