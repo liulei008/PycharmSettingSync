@@ -21,6 +21,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
@@ -90,6 +93,9 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="Git.Commit.And.Push.Executor">
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -111,6 +117,7 @@
   <action id="GotoUrlAction">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
@@ -206,6 +213,9 @@
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
   <action id="ViewSource" />
 </keymap>
