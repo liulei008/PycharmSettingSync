@@ -181,7 +181,7 @@
                     <option name="javaType" value="java.lang.Object" />
                   </TypeMapper>
                   <TypeMapper>
-                    <option name="columnType" value="smallint" />
+                    <option name="columnType" value="smallint(\(\d+\))?" />
                     <option name="javaType" value="java.lang.Integer" />
                   </TypeMapper>
                 </list>
