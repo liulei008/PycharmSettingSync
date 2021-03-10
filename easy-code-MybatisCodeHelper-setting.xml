@@ -178,7 +178,7 @@
                   </TypeMapper>
                   <TypeMapper>
                     <option name="columnType" value="mediumtext" />
-                    <option name="javaType" value="java.lang.Object" />
+                    <option name="javaType" value="java.lang.String" />
                   </TypeMapper>
                   <TypeMapper>
                     <option name="columnType" value="smallint(\(\d+\))?" />
