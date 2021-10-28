@@ -74,6 +74,14 @@
           <option name="url" value="git@git.xiaojukeji.com:wujie-recom-backend/growth_prometheus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.xiaojukeji.com/wujie/advertising/testpy" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.xiaojukeji.com" />
+          <option name="userName" value="liuyilei" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/work" />
