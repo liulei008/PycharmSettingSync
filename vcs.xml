@@ -82,6 +82,14 @@
           <option name="url" value="http://git.xiaojukeji.com" />
           <option name="userName" value="liuyilei" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.xiaojukeji.com:wujie/iscm-flow.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.xiaojukeji.com:wujie/iscm-purchase.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/work" />
