@@ -142,9 +142,13 @@
           <option name="url" value="git@git.xiaojukeji.com:596-server/freight-driver-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CodingDocs/typora-markdown-resume.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/huoyun" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
